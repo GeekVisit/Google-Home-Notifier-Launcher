@@ -3,7 +3,7 @@
 # This is launcher for Harper Reed's Google Home Notifier - https://github.com/harperreed/google-home-notifier-python
 # It is an attempt to keep the notifier working - the script tends to error out if you use Groups due to the pychomecast library's inability to 
 # keep track of google groups. Harper's "main.py" script has been renamed gnotify.py for purposes of this script.
-#see this: https://github.com/harperreed/google-home-notifier-python 
+#see this: https://github.com/home-assistant/home-assistant/issues/9800
 # Features:
 # - relaunches the notifier if it dies
 # - restarts it if it errs and is no longer connected 
