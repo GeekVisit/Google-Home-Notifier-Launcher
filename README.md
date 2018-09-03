@@ -9,7 +9,7 @@ pychomecast library's inability to keep track of google groups changing ips (see
  - relaunches the notifier if it dies
  - restarts it if it errs and is no longer connected
  
- ### After downloading it:
+ ### Installing:
  ```bash
  sudo chown root gnotify-launch.sh
  sudo crontab -e
